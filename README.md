@@ -1,7 +1,5 @@
 # READ ME
 
-DISCLAIMER: THIS WORK IS CURRENTLY UNDER REVIEW. PLEASE DO NOT CITE OR PUBLISH THE DATA, CODE, OR OTHER INFORMATION IN THE REPOSITORY WITHOUT THE APPROVED WRITTEN CONSENT OF THE AUTHORS
-
 ## Using these Scripts
 
 The scripts maintained in the respository are those used in the workflow associated with the paper entitled: **3D surface morphometrics differentiates behaviour on primate stone tools**. These scripts can be used to generate and analyze 3D models of percussive tools. 
